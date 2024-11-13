@@ -1,0 +1,12 @@
+.frm{
+    background-color: rgb(147, 199, 244);
+    margin: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 10px;
+    color:rgb(31, 31, 122);
+    font-size: 30px;
+    text-align: center;
+    border-radius: 5px;
+    gap: 10px;
+}
