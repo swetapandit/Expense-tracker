@@ -5,13 +5,13 @@ function Form(){
     return(
         <form action="" className="frm">
         Expense Tracker
-        <br />
-        Item Name <br/>
+ 
+        Item Name
         <Input/>
-        <br />
-        Amount <br/>
+
+        Amount 
         <Input/>
-        <br />
+        
         <Button/>
         <Button/>
         </form>

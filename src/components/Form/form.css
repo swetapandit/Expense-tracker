@@ -1,4 +1,6 @@
 .frm{
+    display: flex;
+    flex-direction: column;
     background-color: rgb(147, 199, 244);
     margin: 100px;
     margin-left: 300px;
